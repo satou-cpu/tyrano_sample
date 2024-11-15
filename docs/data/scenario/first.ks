@@ -66,15 +66,11 @@
 
 [cm]
 
-[bg storage=usa.jpg time=1000]
+[bg storage=usa.jpg time=1800]
 
-[cm]
+[bg storage=usa2.jpg time=1800]
 
-[bg storage=usa2.jpg time=1000]
-
-[cm]
-
-[bg storage=usa3.jpg time=1000]
+[bg storage=usa3.jpg time=1800]
 
 つぶらな瞳がとてもかわいい。もふもふの暴力だった...[l][r]
 よし、次のコーナーに行こう。[r]
